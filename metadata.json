@@ -1,0 +1,6 @@
+{
+  "name": "Foodie Fiasco",
+  "description": "Foodie Fiasco is a luxury restaurant in East Barnet offering refined dine-in, takeaway, food delivery, gourmet burgers, loaded fries, and private party catering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
